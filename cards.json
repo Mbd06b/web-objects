@@ -1,0 +1,264 @@
+{
+    "cards": [
+        {
+            "name": "Clubs",
+            "suite": "Ace",
+            "value": 1
+        },
+        {
+            "name": "Clubs",
+            "suite": "Two",
+            "value": 2
+        },
+        {
+            "name": "Clubs",
+            "suite": "Three",
+            "value": 3
+        },
+        {
+            "name": "Clubs",
+            "suite": "Four",
+            "value": 4
+        },
+        {
+            "name": "Clubs",
+            "suite": "Five",
+            "value": 5
+        },
+        {
+            "name": "Clubs",
+            "suite": "Six",
+            "value": 6
+        },
+        {
+            "name": "Clubs",
+            "suite": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Clubs",
+            "suite": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Clubs",
+            "suite": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Clubs",
+            "suite": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Clubs",
+            "suite": "Jack",
+            "value": 11
+        },
+        {
+            "name": "Clubs",
+            "suite": "Queen",
+            "value": 12
+        },
+        {
+            "name": "Clubs",
+            "suite": "King",
+            "value": 13
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Ace",
+            "value": 1
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Two",
+            "value": 2
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Three",
+            "value": 3
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Four",
+            "value": 4
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Five",
+            "value": 5
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Six",
+            "value": 6
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Jack",
+            "value": 11
+        },
+        {
+            "name": "Diamonds",
+            "suite": "Queen",
+            "value": 12
+        },
+        {
+            "name": "Diamonds",
+            "suite": "King",
+            "value": 13
+        },
+        {
+            "name": "Hearts",
+            "suite": "Ace",
+            "value": 1
+        },
+        {
+            "name": "Hearts",
+            "suite": "Two",
+            "value": 2
+        },
+        {
+            "name": "Hearts",
+            "suite": "Three",
+            "value": 3
+        },
+        {
+            "name": "Hearts",
+            "suite": "Four",
+            "value": 4
+        },
+        {
+            "name": "Hearts",
+            "suite": "Five",
+            "value": 5
+        },
+        {
+            "name": "Hearts",
+            "suite": "Six",
+            "value": 6
+        },
+        {
+            "name": "Hearts",
+            "suite": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Hearts",
+            "suite": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Hearts",
+            "suite": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Hearts",
+            "suite": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Hearts",
+            "suite": "Jack",
+            "value": 11
+        },
+        {
+            "name": "Hearts",
+            "suite": "Queen",
+            "value": 12
+        },
+        {
+            "name": "Hearts",
+            "suite": "King",
+            "value": 13
+        },
+        {
+            "name": "Spades",
+            "suite": "Ace",
+            "value": 1
+        },
+        {
+            "name": "Spades",
+            "suite": "Two",
+            "value": 2
+        },
+        {
+            "name": "Spades",
+            "suite": "Three",
+            "value": 3
+        },
+        {
+            "name": "Spades",
+            "suite": "Four",
+            "value": 4
+        },
+        {
+            "name": "Spades",
+            "suite": "Five",
+            "value": 5
+        },
+        {
+            "name": "Spades",
+            "suite": "Six",
+            "value": 6
+        },
+        {
+            "name": "Spades",
+            "suite": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Spades",
+            "suite": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Spades",
+            "suite": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Spades",
+            "suite": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Spades",
+            "suite": "Jack",
+            "value": 11
+        },
+        {
+            "name": "Spades",
+            "suite": "Queen",
+            "value": 12
+        },
+        {
+            "name": "Spades",
+            "suite": "King",
+            "value": 13
+        }
+    ]
+}
